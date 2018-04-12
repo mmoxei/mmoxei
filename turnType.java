@@ -1,0 +1,4 @@
+
+enum turnType{
+MOVE, SHOOT	
+}
